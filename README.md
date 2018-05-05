@@ -3,7 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ### Path Planning
 
-The goal of this project is to design a path planner that is able to create smooth, safe paths for the car to follow along a 3 lane virtual highway with other traffic. The planner should be able to keep inside its lane, avoid hitting other cars, and pass slower moving traffic all by using localization, sensor fusion and map data provided by the simulator. Smooth trajetories mean that the car does not exceed a total acceleration of 10 m/s^2 and a jerk of 10 m/s^3.
+The goal of this project is to design a path planner that is able to create smooth, safe paths for the car to follow along a 3 lane virtual highway with other traffic. The planner should be able to keep inside its lane, avoid hitting other cars, and pass slower moving traffic all by using localization, sensor fusion and map data provided by the simulator. Smooth trajetories mean that the car does not exceed a total acceleration of 10 m/s^2 and a jerk of 10 m/s^3. The project is partially based on classroom QA video.
 
 ### Code Structure
 
